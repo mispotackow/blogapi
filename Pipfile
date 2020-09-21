@@ -10,6 +10,11 @@ django = "*"
 djangorestframework = "*"
 dj-rest-auth = "*"
 django-allauth = "*"
+pyyaml = "*"
+uritemplate = "*"
+drf-yasg = {extras = ["validation"], version = "*"}
+swagger-spec-validator = "*"
+packaging = "*"
 
 [requires]
 python_version = "3.8"
